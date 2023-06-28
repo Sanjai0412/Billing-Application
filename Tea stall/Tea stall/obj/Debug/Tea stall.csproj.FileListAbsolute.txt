@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2012\Projects\Tea stall\Tea stall\bin\Debug\Tea stall.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\Tea stall\Tea stall\bin\Debug\Tea stall.exe
+c:\users\admin\documents\visual studio 2012\Projects\Tea stall\Tea stall\bin\Debug\Tea stall.pdb
+c:\users\admin\documents\visual studio 2012\Projects\Tea stall\Tea stall\obj\Debug\Tea stall.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\Tea stall\Tea stall\obj\Debug\Tea_stall.Form1.resources
+c:\users\admin\documents\visual studio 2012\Projects\Tea stall\Tea stall\obj\Debug\Tea_stall.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\Tea stall\Tea stall\obj\Debug\Tea stall.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\Tea stall\Tea stall\obj\Debug\Tea stall.exe
+c:\users\admin\documents\visual studio 2012\Projects\Tea stall\Tea stall\obj\Debug\Tea stall.pdb
