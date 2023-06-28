@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2012\Projects\Pizza Shop\Pizza Shop\bin\Debug\Pizza Shop.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\Pizza Shop\Pizza Shop\bin\Debug\Pizza Shop.exe
+c:\users\admin\documents\visual studio 2012\Projects\Pizza Shop\Pizza Shop\bin\Debug\Pizza Shop.pdb
+c:\users\admin\documents\visual studio 2012\Projects\Pizza Shop\Pizza Shop\obj\Debug\Pizza Shop.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\Pizza Shop\Pizza Shop\obj\Debug\Pizza_Shop.Form1.resources
+c:\users\admin\documents\visual studio 2012\Projects\Pizza Shop\Pizza Shop\obj\Debug\Pizza_Shop.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\Pizza Shop\Pizza Shop\obj\Debug\Pizza Shop.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\Pizza Shop\Pizza Shop\obj\Debug\Pizza Shop.exe
+c:\users\admin\documents\visual studio 2012\Projects\Pizza Shop\Pizza Shop\obj\Debug\Pizza Shop.pdb
+C:\Users\Admin\documents\visual studio 2012\Projects\Pizza Shop\Pizza Shop\obj\Debug\Pizza_Shop.Billing.resources
