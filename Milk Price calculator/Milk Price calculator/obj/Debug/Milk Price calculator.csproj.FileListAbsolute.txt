@@ -1,0 +1,13 @@
+c:\users\admin\documents\visual studio 2012\Projects\Milk Price calculator\Milk Price calculator\bin\Debug\Milk Price calculator.exe.config
+C:\Users\Admin\documents\visual studio 2012\Projects\Milk Price calculator\Milk Price calculator\bin\Debug\Milk Price calculator.exe
+C:\Users\Admin\documents\visual studio 2012\Projects\Milk Price calculator\Milk Price calculator\bin\Debug\Milk Price calculator.pdb
+C:\Users\Admin\documents\visual studio 2012\Projects\Milk Price calculator\Milk Price calculator\obj\Debug\Milk Price calculator.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2012\Projects\Milk Price calculator\Milk Price calculator\obj\Debug\Milk_Price_calculator.Form1.resources
+C:\Users\Admin\documents\visual studio 2012\Projects\Milk Price calculator\Milk Price calculator\obj\Debug\Milk_Price_calculator.Properties.Resources.resources
+C:\Users\Admin\documents\visual studio 2012\Projects\Milk Price calculator\Milk Price calculator\obj\Debug\Milk Price calculator.csproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2012\Projects\Milk Price calculator\Milk Price calculator\obj\Debug\Milk Price calculator.exe
+C:\Users\Admin\documents\visual studio 2012\Projects\Milk Price calculator\Milk Price calculator\obj\Debug\Milk Price calculator.pdb
+C:\Users\Admin\documents\visual studio 2012\Projects\Milk Price calculator\Milk Price calculator\obj\Debug\Milk_Price_calculator.Form2.resources
+C:\Users\Admin\documents\visual studio 2012\Projects\Milk Price calculator\Milk Price calculator\obj\Debug\Milk_Price_calculator.Form3.resources
+C:\Users\Admin\documents\visual studio 2012\Projects\Milk Price calculator\Milk Price calculator\obj\Debug\Milk_Price_calculator.Form4.resources
+C:\Users\Admin\documents\visual studio 2012\Projects\Milk Price calculator\Milk Price calculator\obj\Debug\Milk_Price_calculator.Form5.resources
